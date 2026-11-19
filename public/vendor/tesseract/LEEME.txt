@@ -1,0 +1,3 @@
+Tesseract OCR (escáner de cartas), alojado aquí para no cargarlo desde un CDN de terceros.
+Versiones: tesseract.js 5.1.1, tesseract.js-core 5.1.1, @tesseract.js-data/eng 1.0.0 (4.0.0_best_int).
+Licencia Apache-2.0 (ver los archivos LICENSE*). Sin modificaciones.
